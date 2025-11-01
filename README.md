@@ -1,8 +1,8 @@
 # En: Skillbox_weblayout_3.0_Module-9_task-1_Gazprom-bank_site_resolution-fluid-layout_micro-animation
 # Ru: Задание 1 из модуля 9 курса Skillbox по веб-верстке (версия 3.0): сайт Газпромбанка с  микропереходами (micro-animation).
 
-### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
-### Please give this project a star ⭐ if you found it interesting.
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+#### Please give this project a star ⭐ if you found it interesting.
 
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 9, Assignment 1: Single-page layout for the Gazprombank site micro-animation.
 
